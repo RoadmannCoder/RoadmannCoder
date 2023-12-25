@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://komarev.com/ghpvc/?username=roadmanncoder&label=Profile%20views&color=0e75b6&style=flat" alt="roadmanncoder" />
 </div>
 
 ###
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roadmanncoder&show_icons=true&locale=en" alt="roadmanncoder" /></p>
 </div>
 
 ###

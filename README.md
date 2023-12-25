@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/5-31-2017/47-1XW.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roadmanncoder&label=Profile%20views&color=0e75b6&style=flat" alt="roadmanncoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roadmanncoder" alt="roadmanncoder" /></a> </p>
+
 
 - 💬 Ask me about **ASP .NET CORE, Android Studio, Qt Designer**
 

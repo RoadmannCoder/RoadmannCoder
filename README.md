@@ -24,7 +24,7 @@
 <h3 align="left">📕 My Latest Reading</h3>
 <ul>
   <li><a href="https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272">Object Oriented Thought Process</a></li>
-  <li><a href="https://www.amazon.eg/-/en/Fundamentals-of-Database-Systems/dp/0133970779">Fundamentals of Database Systems</a></li>
+  <li><a href="https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779/ref=sr_1_2?crid=SV3S1N8J7RV2&keywords=fundamentals+of+database+systems&qid=1703593049&s=books&sprefix=fundementals+of+da%2Cstripbooks-intl-ship%2C211&sr=1-2">Fundamentals of Database Systems</a></li>
 </ul>
 
 <h3 align="left">🛠 Language and tools</h3>

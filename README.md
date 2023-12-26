@@ -13,7 +13,7 @@
 
 
 <ul align="left"> 
-  <li>📚 I'm currently reading <strong>Object-Oriented Analysis and Design with Applications</strong> <a href="https://www.manning.com/books/spring-in-action-fifth-editio](https://www.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)n" rel="nofollow">book</a>.</li>
+  <li>📚 I'm currently reading  <a href="https://www.manning.com/books/spring-in-action-fifth-editio](https://www.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)n" rel="nofollow"><strong>Object-Oriented Analysis and Design with Applications</strong></a>.</li>
   <li>
     🌱 I’m currently learning <strong>ASP .NET CORE, HTML, CSS, JavaScript, Angular</strong>
   </li>

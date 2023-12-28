@@ -13,7 +13,7 @@
 
 
 <ul align="left"> 
-  <li>📚 I'm currently reading  <a href="https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X/ref=sr_1_2?crid=1FVFRUW21LRGJ&keywords=object+oriented+analysis+and+design&qid=1703592912&s=books&sprefix=object+or%2Cstripbooks-intl-ship%2C273&sr=1-2" rel="nofollow"><strong>Object-Oriented Analysis and Design with Applications</strong></a></li>
+  <li>📚 I'm currently reading  <a href="https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X/ref=sr_1_2?crid=1FVFRUW21LRGJ&keywords=object+oriented+analysis+and+design&qid=1703592912&s=books&sprefix=object+or%2Cstripbooks-intl-ship%2C273&sr=1-2" rel="nofollow"><strong>Object-Oriented Analysis and Design with Applications</strong></a> and <a href="https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687/ref=sr_1_1?crid=17HVCQPBGH8QV&keywords=uml+distilled&qid=1703752324&sprefix=uml+dis%2Caps%2C1415&sr=8-1"><strong>UML Distilled</strong></a></li>
   <li>
     🌱 I’m currently learning <strong>ASP .NET CORE, HTML, CSS, JavaScript, Angular</strong>
   </li>

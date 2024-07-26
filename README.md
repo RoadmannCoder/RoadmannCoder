@@ -13,9 +13,9 @@
 
 
 <ul align="left"> 
-  <li>📚 I'm currently reading  <a href="https://www.amazon.com/Practical-Database-Design-Chris-Auld/dp/1590591941"><strong>Practical Web Database Design</strong></a></li>
+  <li>📚 I'm currently reading  <a href="https://www.amazon.com/Oracle-Certified-Professional-Developer-Study/dp/1119864585"><strong>OCP Oracle Certified Professional Java SE 17 Developer</strong></a></li>
   <li>
-    🌱 I’m currently learning <strong>ASP .NET CORE, HTML, CSS, JavaScript, Angular</strong>
+    🌱 I’m currently learning <strong>JAVAr</strong>
   </li>
   <li> 
     💬 Ask me about <strong> C#, ASP.NET CORE, C++, Qt Designer, Database Design, Object-Oriented Design</strong>
@@ -23,6 +23,7 @@
 </ul>
 <h3 align="left">📕 My Latest Reading</h3>
 <ul>
+  <li><a href="https://https://www.amazon.com/Practical-Database-Design-Chris-Auld/dp/1590591941">Practical Web Database Design</li>
   <li><a href="https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272">Object Oriented Thought Process</a></li>
   <li><a href="https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779/ref=sr_1_2?crid=SV3S1N8J7RV2&keywords=fundamentals+of+database+systems&qid=1703593049&s=books&sprefix=fundementals+of+da%2Cstripbooks-intl-ship%2C211&sr=1-2">Fundamentals of Database Systems</a></li>
   <li><a href="https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X/ref=sr_1_2?crid=1FVFRUW21LRGJ&keywords=object+oriented+analysis+and+design&qid=1703592912&s=books&sprefix=object+or%2Cstripbooks-intl-ship%2C273&sr=1-2">Object-Oriented Analysis and Design with Applications</a></li>

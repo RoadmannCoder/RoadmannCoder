@@ -14,6 +14,7 @@
 
 <ul align="left"> 
   <li>📚 I'm currently reading  <a href="https://www.manning.com/books/spring-start-here"><strong>Spring Start Here</strong></a></li>
+  <li>📚 I'm currently reading  <a href="https://www.manning.com/books/java-reflection-in-action"><strong>Java Reflection in Action</strong></a></li>
   <li>
     🌱 I’m currently learning <strong>JAVA</strong>
   </li>
